@@ -1,0 +1,18 @@
+.container{
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+#value{
+    font-weight: bold;
+    font-size: 60px;
+    padding:50px;
+}
+.button-container
+{
+    padding: 10px;
+}
+h1{
+    padding-left: 30px;
+}
